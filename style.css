@@ -22,6 +22,14 @@
     color: black;
     line-height: 14px!important;
   }
+ .cons{
+     font-size:12px;
+    margin-top:12px;
+    text-align: center;
+    margin-bottom: 3%;
+    color: red;
+    line-height: 14px!important;
+  }
   
   a, a:visited {
     text-decoration: none;
